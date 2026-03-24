@@ -14,6 +14,7 @@ def main():
     feature = Feature("myfeature")
     result = feature.execute()
     print(result)
+    print("Welcome to DEVASC!!")
 
 
 if __name__ == "__main__":
